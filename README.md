@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/priyanka-k04/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/priyanka-k04/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
