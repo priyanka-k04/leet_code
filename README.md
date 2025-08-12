@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/priyanka-k04/leet_code/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/priyanka-k04/leet_code/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/priyanka-k04/leet_code/tree/master/0344-reverse-string) |
