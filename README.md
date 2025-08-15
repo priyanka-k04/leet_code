@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/priyanka-k04/leet_code/tree/master/0031-next-permutation) |
+| [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanka-k04/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
