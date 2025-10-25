@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanka-k04/leet_code/tree/master/0202-happy-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/priyanka-k04/leet_code/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Divide and Conquer
 |  |
 | ------- |
