@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/priyanka-k04/leet_code/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0283-move-zeroes) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyanka-k04/leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/priyanka-k04/leet_code/tree/master/0202-happy-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanka-k04/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyanka-k04/leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanka-k04/leet_code/tree/master/0202-happy-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanka-k04/leet_code/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyanka-k04/leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
