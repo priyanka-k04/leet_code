@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanka-k04/leet_code/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanka-k04/leet_code/tree/master/0202-happy-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanka-k04/leet_code/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyanka-k04/leet_code/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priyanka-k04/leet_code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priyanka-k04/leet_code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
