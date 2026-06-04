@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyanka-k04/leet_code/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/priyanka-k04/leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanka-k04/leet_code/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanka-k04/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanka-k04/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanka-k04/leet_code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanka-k04/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/priyanka-k04/leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/priyanka-k04/leet_code/tree/master/0202-happy-number) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanka-k04/leet_code/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
