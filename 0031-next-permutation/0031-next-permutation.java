@@ -1,29 +1,51 @@
 class Solution {
+
     public void nextPermutation(int[] nums) {
-        int i=nums.length-2;
-        while(i>=0 && nums[i]>=nums[i+1]){
-            i--;
-        }
-        if(i>=0){
-            int j=nums.length-1;
-            while(j>=0 && nums[j]<=nums[i]){
-                j--;
+
+        int n = nums.length;
+
+        int pivot = -1;
+
+        // Step 1: Find pivot
+        for (int i = n - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
+                pivot = i;
+                break;
             }
-            swap(nums,i,j);
         }
-        reverse(nums, i+1);
+
+        // Step 2: Find next greater element
+        if (pivot != -1) {
+
+            for (int i = n - 1; i > pivot; i--) {
+
+                if (nums[i] > nums[pivot]) {
+
+                    swap(nums, i, pivot);
+                    break;
+                }
+            }
+        }
+
+        // Step 3: Reverse suffix
+        reverse(nums, pivot + 1, n - 1);
     }
-    public void swap(int [] nums, int i, int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
+
+    private void swap(int[] nums, int i, int j) {
+
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
-    public void reverse(int[] nums, int start){
-        int end=nums.length-1;
-        while(start<end){
-            swap(nums, start,end);
-            start++;
-            end--;
+
+    private void reverse(int[] nums, int left, int right) {
+
+        while (left < right) {
+
+            swap(nums, left, right);
+
+            left++;
+            right--;
         }
     }
 }
