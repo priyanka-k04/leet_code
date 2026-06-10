@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyanka-k04/leet_code/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/priyanka-k04/leet_code/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/priyanka-k04/leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyanka-k04/leet_code/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanka-k04/leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanka-k04/leet_code/tree/master/0057-insert-interval) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanka-k04/leet_code/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/priyanka-k04/leet_code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/priyanka-k04/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanka-k04/leet_code/tree/master/0202-happy-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanka-k04/leet_code/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -89,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanka-k04/leet_code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
