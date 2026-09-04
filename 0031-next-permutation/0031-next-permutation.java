@@ -1,48 +1,44 @@
 class Solution {
-
     public void nextPermutation(int[] nums) {
-
         int n = nums.length;
 
-        int pivot = -1;
+        // Find the gola_index
+        int gola_index = -1;
 
-        // Step 1: Find pivot
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                pivot = i;
+        for (int i = n - 1; i > 0; i--) {
+            if (nums[i] > nums[i - 1]) {
+                gola_index = i - 1;
                 break;
             }
         }
 
-        // Step 2: Find next greater element
-        if (pivot != -1) {
+        // If a gola_index was found
+        if (gola_index != -1) {
+            int swap_index = gola_index;
 
-            for (int i = n - 1; i > pivot; i--) {
-
-                if (nums[i] > nums[pivot]) {
-
-                    swap(nums, i, pivot);
+            // Find the smallest value greater than nums[gola_index]
+            for (int j = n - 1; j > gola_index; j--) {
+                if (nums[j] > nums[gola_index]) {
+                    swap_index = j;
                     break;
                 }
             }
+
+            // Swap
+            int temp = nums[gola_index];
+            nums[gola_index] = nums[swap_index];
+            nums[swap_index] = temp;
         }
 
-        // Step 3: Reverse suffix
-        reverse(nums, pivot + 1, n - 1);
-    }
-
-    private void swap(int[] nums, int i, int j) {
-
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+        // Reverse the suffix
+        reverse(nums, gola_index + 1, n - 1);
     }
 
     private void reverse(int[] nums, int left, int right) {
-
         while (left < right) {
-
-            swap(nums, left, right);
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
 
             left++;
             right--;
