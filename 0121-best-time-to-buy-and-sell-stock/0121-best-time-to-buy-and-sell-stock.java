@@ -1,11 +1,11 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int minprofit=prices[0];
+        int minprice=prices[0];
         int maxprofit=0;
         for(int i=1;i<prices.length;i++){
-            int currprofit= prices[i]-minprofit;
+            minprice=Math.min(minprice, prices[i]);
+            int currprofit= prices[i]-minprice;
             maxprofit=Math.max(currprofit,maxprofit);
-            minprofit=Math.min(minprofit, prices[i]);
         }
         return maxprofit;
     }
