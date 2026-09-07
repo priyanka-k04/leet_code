@@ -2,25 +2,33 @@ class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 
-        // Transpose
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int temp = matrix[i][j];
-                matrix[i][j] = matrix[j][i];
-                matrix[j][i] = temp;
+        // Step 1: Transpose the matrix
+        for (int row = 0; row < n; row++) {
+            for (int column = row + 1; column < n; column++) {
+                int temp = matrix[row][column];
+                matrix[row][column] = matrix[column][row];
+                matrix[column][row] = temp;
             }
         }
 
-        // Reverse each row
-        for (int i = 0; i < n; i++) {
-            int left = 0, right = n - 1;
+        // Step 2: Reverse every row
+        for (int row = 0; row < n; row++) {
+            int left = 0;
+            int right = n - 1;
+
             while (left < right) {
-                int temp = matrix[i][left];
-                matrix[i][left] = matrix[i][right];
-                matrix[i][right] = temp;
+                int temp = matrix[row][left];
+                matrix[row][left] = matrix[row][right];
+                matrix[row][right] = temp;
+
                 left++;
                 right--;
             }
         }
     }
 }
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
