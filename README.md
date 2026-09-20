@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka-k04/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/priyanka-k04/leet_code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/priyanka-k04/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanka-k04/leet_code/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka-k04/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/priyanka-k04/leet_code/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanka-k04/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka-k04/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyanka-k04/leet_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyanka-k04/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanka-k04/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/priyanka-k04/leet_code/tree/master/0175-combine-two-tables) |
 | [1757-recyclable-and-low-fat-products](https://github.com/priyanka-k04/leet_code/tree/master/1757-recyclable-and-low-fat-products) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka-k04/leet_code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
