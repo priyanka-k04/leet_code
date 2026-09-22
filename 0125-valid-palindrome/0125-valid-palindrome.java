@@ -4,7 +4,7 @@ class Solution {
         int right = s.length() - 1;
 
         while (left < right) {
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left)) ) {
                 left++;
             }
 
