@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/priyanka-k04/leet_code/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanka-k04/leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanka-k04/leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/priyanka-k04/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyanka-k04/leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanka-k04/leet_code/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/priyanka-k04/leet_code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
